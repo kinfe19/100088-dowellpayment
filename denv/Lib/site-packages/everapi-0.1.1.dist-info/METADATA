@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: everapi
+Version: 0.1.1
+Summary: Everapi Python Client
+Home-page: https://github.com/everapihq/everapi-python
+Author: Everapi
+Author-email: office@everapi.com
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# Everapi Python Client #
+
+Everapi Python Client is the official Python Wrapper around the Everapi [API](https://everapi.com/).
+
+## Installation
+
+Install from pip:
+````sh
+pip install everapi
+````
+
+Install from code:
+````sh
+pip install git+https://github.com/everapihq/everapi-python.git
+````
+
+
+### Contact us
+Any feedback? Please feel free to [contact our team](mailto:office@everapi.com).
